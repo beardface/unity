@@ -1,0 +1,111 @@
+fileFormatVersion: 2
+guid: 310457dc043d942d68576fba214a6f76
+timeCreated: 1446435279
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: candy_idle
+    21300002: candy_run_1
+    21300004: candy_run_2
+    21300006: candy_run_3
+    21300008: candy_run_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: candy_idle
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 105
+        width: 252
+        height: 369
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: candy_run_1
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 83
+        width: 337
+        height: 416
+      alignment: 9
+      pivot: {x: .471668273, y: .484699041}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: candy_run_2
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 83
+        width: 343
+        height: 410
+      alignment: 9
+      pivot: {x: .46288529, y: .484475106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: candy_run_3
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 76
+        width: 290
+        height: 401
+      alignment: 9
+      pivot: {x: .5, y: .460316807}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: candy_run_4
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 86
+        width: 293
+        height: 363
+      alignment: 9
+      pivot: {x: .5, y: .429860145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

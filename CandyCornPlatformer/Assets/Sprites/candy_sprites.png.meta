@@ -1,0 +1,122 @@
+fileFormatVersion: 2
+guid: 7fc8052d9bbd74990b0dfabb4dda6ae5
+timeCreated: 1446437560
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mouth_0
+    21300002: mouth_1
+    21300004: turkey_0
+    21300006: turkey_1
+    21300008: turkey_2
+    21300010: candy_sprites_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: mouth_0
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 857
+        width: 141
+        height: 224
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mouth_1
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 869
+        width: 137
+        height: 184
+      alignment: 9
+      pivot: {x: .405579448, y: .456330925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: turkey_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 101
+        width: 355
+        height: 377
+      alignment: 9
+      pivot: {x: .543841422, y: .336807579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: turkey_1
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 400
+        width: 428
+        height: 426
+      alignment: 9
+      pivot: {x: .572226703, y: .367391676}
+      border: {x: 0, y: 0, z: 10, w: 0}
+    - name: turkey_2
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 57
+        width: 324
+        height: 461
+      alignment: 9
+      pivot: {x: .435266197, y: .402507901}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: candy_sprites_5
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 32
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
